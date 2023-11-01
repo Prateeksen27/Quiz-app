@@ -1,2 +1,2 @@
 # Quiz-app
-hyee this a quiz app u can play this freely.
+This is a Online quiz app having questions and multiple choise answers for each question .
